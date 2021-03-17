@@ -1,4 +1,4 @@
-Whats GitHub?
+Whats GitHub? Collaborative Version Control
 
 How old is GitHub?
 
